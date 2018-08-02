@@ -10,13 +10,13 @@
 
     <link rel="stylesheet" href="style.css">
 
-    <title>Ma boutique de hamsters hipters 3</title>
+    <title>// Ma super boutique de hamsters hipters 3</title>
   </head>
 
   <body>
     <!-- Nav Bootstrap -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Ma boutique de hamsters hipters 3</a>
+      <a class="navbar-brand" href="#">// Ma super boutique de hamsters hipters 3</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
